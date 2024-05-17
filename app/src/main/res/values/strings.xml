@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Good News</string>
+
+    <!-- Home Screen -->
+    <string name="search_icon">Search</string>
+    <string name="profile_icon">Profile</string>
+    <string name="for_you">For You</string>
+    <string name="top_news">Top news</string>
+    <string name="read_later">Read later</string>
+    <string name="liked">Liked</string>
+    <string name="label">Good News</string>
+    <string name="news_image">News image</string>
+    <string name="readlater_icon">Read later</string>
+    <string name="like_icon">Like</string>
+    <string name="share_icon">Share</string>
+    <string name="no_news_description">News is not loaded.\nCheck your Internet connection.</string>
+    <string name="today">Today</string>
+    <string name="temperature">Temperature: </string>
+    <string name="temperature_celsius">°C</string>
+    <string name="humidity">Humidity: </string>
+    <string name="humidity_percent">%</string>
+    <string name="wind_speed">Wind speed: </string>
+    <string name="wind_speed_km">km/h</string>
+    <string name="loading">Loading</string>
+    <string name="loading_failed">Failed to load</string>
+    <string name="loading_weather_data">Loading weather data. Please wait.</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="check_news_post">Read this news</string>
+    <string name="rating">Rating:</string>
+
+    <!-- News Item Screen -->
+    <string name="navigation_back">Back</string>
+    <string name="like_press">Did you like the article? Like it!</string>
+
+    <!-- Weather Item Screen -->
+    <string name="temperature_forecast_item">T: </string>
+    <string name="humidity_forecast_item">H: </string>
+    <string name="wind_speed_forecast_item">WS: </string>
+    <string name="current_weather">Now</string>
+    <string name="today_weather">Today`s Forecast</string>
+    <string name="weather">Weather</string>
+    <string name="thermostat_icon">Thermostat</string>
+    <string name="humidity_icon">Humidity</string>
+    <string name="wind_icon">Wind</string>
+    <string name="forecast">Forecast</string>
+    <string name="weekly_forecast">Weekly Forecast</string>
+
+    <!-- Top News Screen -->
+    <string name="top_five_news">Top 5 stories right now</string>
+
+    <!-- Likes Screen -->
+    <string name="no_liked_news_description">There is no Liked news yet.\nReturn to the "Home" screen\n and press some likes!</string>
+
+    <!-- Readlater Screen -->
+    <string name="no_readlater_news_description">There is no news yet.\nReturn to the "Home" screen\n and press some bookmarks!</string>
+    <string name="home_screen_button">Back to Home screen</string>
+
+</resources>

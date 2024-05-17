@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_extra_small">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">20dp</dimen>
+    <dimen name="padding_values_zero">0dp</dimen>
+    <dimen name="padding_extra_large">32dp</dimen>
+    <dimen name="image_size">80dp</dimen>
+    <dimen name="image_item_screen_size">256dp</dimen>
+    <dimen name="weather_image_size">84dp</dimen>
+    <dimen name="weather_forecast_image_size">44dp</dimen>
+    <dimen name="loading_image_size">100dp</dimen>
+    <dimen name="error_image_size">100dp</dimen>
+    <dimen name="divider_size">1dp</dimen>
+    <dimen name="image_border_size">0.6dp</dimen>
+</resources>
